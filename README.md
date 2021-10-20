@@ -15,7 +15,7 @@
 
 ## Fig. 3 - Screenshot of Lambda and Lex Results: 
 
-![Fig 1](https://github.com/toniahurst/FinTech_Module_15_Challenge/blob/main/Mod_15_image.png)
+![Fig 1](https://github.com/toniahurst/FinTech_Module_18_Challenge/)
 
 
 ## Technologies
