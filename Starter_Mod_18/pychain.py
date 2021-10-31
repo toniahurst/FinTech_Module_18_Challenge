@@ -174,10 +174,6 @@ pychain = setup()
 # include the attributes for `creator_id` and `prev_hash`.
 
 # @TODO:
-# Delete the `input_data` variable from the Streamlit interface.
-
-
-# @TODO:
 # Add an input area where you can get a value for `sender` from the user.
 sender = st.text_input("Sender")
 
@@ -198,10 +194,6 @@ if st.button("Add Block"):
     # which is set equal to a `Record` that contains the `sender`, `receiver`,
     # and `amount` values
     new_block = Block(record=Record, creator_id=42, prev_hash=prev_block_hash)
-    #record=Record,
-    #creator_id=42,
-    #prev_hash=prev_block_hash
-    
 
     pychain.add_block(new_block)
     st.balloons()
