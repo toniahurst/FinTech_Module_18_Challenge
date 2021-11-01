@@ -5,7 +5,7 @@
 In this challenge, we acted as a fintech engineer for a large, global banking interest. As lead developer for the decentralized finance team, we built a blockchain-based ledger system, complete with a user-friendly web interface to transfer money between senders and receivers (see Fig. 1). The app is also able to verify the integrity of the data in the ledger rendering an "output" true if the chain is valid (see Fig. 2).
 
 
-# Images
+## Images
 Fig. 1: The blockchain and ledger
 
 ![Fig 1 - The blockchain and ledger](https://github.com/toniahurst/FinTech_Module_18_Challenge/blob/main/Mod_18_Fig_1.png)
