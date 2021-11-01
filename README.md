@@ -3,6 +3,7 @@ m
 
 # Background
 
+In this challenge, we acted as a fintech engineer for a large, global banking interest. As lead developer for the decentralized finance team, we built a blockchain-based ledger system, complete with a user-friendly web interface to transfer money between senders and receivers (see Fig. 1). The app is also able to verify the integrity of the data in the ledger rendering an "output" true if the chain is valid (see Fig. 2).
 
 
 # Images
