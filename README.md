@@ -7,7 +7,7 @@ m
 
 # Images
 
-[To see a movie of how the blockchain functions, download here:](https://github.com/toniahurst/FinTech_Module_18_Challenge/blob/main/Screen%20Recording%202021-11-01%20at%201.16.25%20PM.mov)
+[To see a movie of how the blockchain functions, download here:](https://github.com/toniahurst/FinTech_Module_18_Challenge/blob/main/Screen%20Recording%202021-11-01%20at%201.16.25%20PM.mov)[then click view raw.]
 
 ![Fig 1](https://github.com/toniahurst/FinTech_Module_18_Challenge/blob/main/Mod_18_Fig_1.png)
 
