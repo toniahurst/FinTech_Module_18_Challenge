@@ -6,8 +6,12 @@ In this challenge, we acted as a fintech engineer for a large, global banking in
 
 
 # Images
+Fig. 1: The blockchain and ledger
 
 ![Fig 1 - The blockchain and ledger](https://github.com/toniahurst/FinTech_Module_18_Challenge/blob/main/Mod_18_Fig_1.png)
+
+
+Fig. 2: The validated chain produces a "true" result
 
 ![Fig 2 - The validated chain produces a "true" result](https://github.com/toniahurst/FinTech_Module_18_Challenge/blob/main/Mod_18_Fig_2.png)
 
