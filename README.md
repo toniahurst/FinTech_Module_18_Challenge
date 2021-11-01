@@ -3,20 +3,15 @@ m
 
 # Background
 
+
+
 # Images
 
-## heading: 
+[Movie 1](https://github.com/toniahurst/FinTech_Module_18_Challenge/blob/main/Screen%20Recording%202021-11-01%20at%201.16.25%20PM.mov)
 
-[Movie 1 - ](https://github.com/toniahurst/FinTech_Module_18_Challenge/)
+![Fig 1](https://github.com/toniahurst/FinTech_Module_18_Challenge/blob/main/Mod_18_Fig_1.png)
 
-## recommendPortfolio Lambda Function: 
-
-[Movie 2 - ](https://github.com/toniahurst/FinTech_Module_18_Challenge)
-
-## Fig. 3 - Screenshot of : 
-
-![Fig 1](https://github.com/toniahurst/FinTech_Module_18_Challenge/)
-
+![Fig 2](https://github.com/toniahurst/FinTech_Module_18_Challenge/blob/main/Mod_18_Fig_2.png)
 
 ## Technologies
 
