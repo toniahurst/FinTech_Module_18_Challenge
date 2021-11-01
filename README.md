@@ -19,7 +19,7 @@ In this challenge, we acted as a fintech engineer for a large, global banking in
 This program uses Python 3.7.10, Anaconda version 4.10.3, and Visual Studio Code 1.61.0. It also Streamlit v. ####. It was written on macOS Catalina 10.15.7.
 
 ## Usage
-
+To use this app, you will need to download to a computer running Streamlit. 
 
 ## Contributors
 
