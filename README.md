@@ -9,9 +9,9 @@ m
 
 [To download a movie version of the blockchain exercise, click here:](https://github.com/toniahurst/FinTech_Module_18_Challenge/blob/main/Screen%20Recording%202021-11-01%20at%201.16.25%20PM.mov)
 
-![Fig 1](https://github.com/toniahurst/FinTech_Module_18_Challenge/blob/main/Mod_18_Fig_1.png)
+[Fig 1](https://github.com/toniahurst/FinTech_Module_18_Challenge/blob/main/Mod_18_Fig_1.png)
 
-![Fig 2](https://github.com/toniahurst/FinTech_Module_18_Challenge/blob/main/Mod_18_Fig_2.png)
+[Fig 2](https://github.com/toniahurst/FinTech_Module_18_Challenge/blob/main/Mod_18_Fig_2.png)
 
 ## Technologies
 
